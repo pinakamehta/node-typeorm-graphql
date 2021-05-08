@@ -14,7 +14,7 @@
       "mysql": "^2.14.1",
       "reflect-metadata": "^0.1.13",
       "type-graphql": "^0.17.6",
-      "typeorm": "^0.2.22"
+      "typeorm": "^0.2.25"
    },
    "scripts": {
       "start": "ts-node-dev --respawn --transpileOnly --ignore-watch node_modules ./src/index.ts"
